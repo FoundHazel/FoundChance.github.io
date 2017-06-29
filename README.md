@@ -5,9 +5,9 @@
 
 # Local Addresses:
 
-Philly - Sugar Refinery Loft in Old City
+Baltimore - Canton
 ------------------------------------------------
-225 Church Street, Philadelphia, PA 19106
+1101 S Linwood Avenue, Baltimore, MD 21224
 
 
 Reading, PA Area
