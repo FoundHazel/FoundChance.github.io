@@ -19,5 +19,5 @@ Central New Jersey
 ------------------------------------------------
 94 Oak Creek Road, East Windsor, NJ 08520
 
-<img src="Chance.png" alt="hi" class="inline"/>
+<img src="IMG_2980.JPG" alt="hi" class="inline"/>
 
