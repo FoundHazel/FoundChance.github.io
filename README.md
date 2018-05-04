@@ -1,6 +1,5 @@
 # Phone Numbers:
-   - Jeff: +1 (609) 529-8276
-   - Kelly: +1 (610) 406-8129
+   - Sarah: +1 (914) 391-6274
 
 
 # Local Addresses:
@@ -19,5 +18,5 @@ Central New Jersey
 ------------------------------------------------
 94 Oak Creek Road, East Windsor, NJ 08520
 
-<img src="IMG_2980.JPG" alt="hi" class="inline"/>
+<img src="CEF4CACD-4585-495E-AB0F-DE2A4024E8EF.jpeg" alt="hi" class="inline"/>
 
