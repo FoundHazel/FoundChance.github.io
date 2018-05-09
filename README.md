@@ -1,5 +1,3 @@
-Hazel
-
 # Phone Numbers:
 
 Sarah
