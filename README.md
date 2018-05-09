@@ -12,5 +12,5 @@ Baltimore
 ------------------------------------------------
 15 South Castle Street, Baltimore, MD 21231
 
-<img src="Hazel.jpeg" alt="hi" class="inline"/>
+<img src="Hazel-3.jpeg" alt="hi" class="inline"/>
 
